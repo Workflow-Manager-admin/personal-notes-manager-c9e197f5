@@ -1,4 +1,0 @@
-{
-    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
-    "working_directory": "/home/kavia/workspace/code-generation/personal-notes-manager-c9e197f5/notes_frontend"
-}
