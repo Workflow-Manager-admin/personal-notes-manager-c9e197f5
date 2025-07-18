@@ -8,7 +8,8 @@
   --sidebar-text: #fff;
   --sidebar-width: 230px;
 
-  --main-bg: #fafbfc;
+  /* Updated main background color to yellow */
+  --main-bg: #ffeb3b;
   --main-text: #222;
 
   --card-bg: #fff;
